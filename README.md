@@ -14,4 +14,3 @@ https://jamboard.google.com/d/190xiVduFRnvT8Jy1okpLW1DVjF6Hx20KgXz9MFNErg8/viewe
 
 Our teams' different personas PDF:
 
-5_Muskrateers_Personas_PersonaGenerator-combined.pdf
