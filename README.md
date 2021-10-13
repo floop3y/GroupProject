@@ -13,5 +13,11 @@ https://jamboard.google.com/d/190xiVduFRnvT8Jy1okpLW1DVjF6Hx20KgXz9MFNErg8/viewe
 
 
 Our teams' different personas PDF:
-
 https://app.luminpdf.com/viewer/6166f11255190e0014a95361
+
+Our sampling of different people who might be interested in our service!:
+![image](https://user-images.githubusercontent.com/89408711/137217656-8638d0a2-9492-4598-9aad-531a690a6cad.png)
+![image](https://user-images.githubusercontent.com/89408711/137217674-73420f13-025d-417b-9b78-0ed5c010f960.png)
+![image](https://user-images.githubusercontent.com/89408711/137217698-243520e5-5684-4091-b0a7-e1562f6e5a7c.png)
+![image](https://user-images.githubusercontent.com/89408711/137217726-13c91263-ec91-4920-a321-772490d7e5a7.png)
+![image](https://user-images.githubusercontent.com/89408711/137217742-2290a1ee-16d2-4a1c-b092-57a9da956e48.png)
