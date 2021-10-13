@@ -10,3 +10,8 @@ https://jamboard.google.com/d/190xiVduFRnvT8Jy1okpLW1DVjF6Hx20KgXz9MFNErg8/viewe
 
 
 <img width="1030" alt="Screen Shot 2021-09-15 at 4 20 36 PM" src="https://user-images.githubusercontent.com/89408711/133503856-81ddc2a5-f8ed-4c32-8f15-2193caad70bb.png">
+
+
+Our teams' different personas PDF:
+
+5_Muskrateers_Personas_PersonaGenerator-combined.pdf
