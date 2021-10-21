@@ -26,3 +26,10 @@ Our sampling of different people who might be interested in our service!:
 My Storyboard about my persona:
 https://docs.google.com/presentation/d/1cVvT7e35rNoeumkJOeMznfFNcl3BE_8rUvfcHpVhs4k/edit#slide=id.p
 
+![image](https://user-images.githubusercontent.com/89408711/138192855-2a3cc075-abeb-44fd-8884-8ae5cfffff2b.png)
+![image](https://user-images.githubusercontent.com/89408711/138192870-dd7477c0-f2dc-49d3-827e-7455a6053cca.png)
+![image](https://user-images.githubusercontent.com/89408711/138192888-537ce5c5-bde6-4944-a411-4e04e790e6db.png)
+![image](https://user-images.githubusercontent.com/89408711/138192919-f56684b6-6b06-4590-83be-e9fc5b4a5428.png)
+![image](https://user-images.githubusercontent.com/89408711/138192933-09f5d479-8f50-4892-8481-fd7747c024a5.png)
+![image](https://user-images.githubusercontent.com/89408711/138192951-92f5f835-3adf-4885-ba56-4e53ca1dcedd.png)
+![image](https://user-images.githubusercontent.com/89408711/138192996-9129a2fa-49ea-4cfc-b940-f5edaa6fe1f7.png)
