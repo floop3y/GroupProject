@@ -36,3 +36,13 @@ https://docs.google.com/presentation/d/1cVvT7e35rNoeumkJOeMznfFNcl3BE_8rUvfcHpVh
 ![image](https://user-images.githubusercontent.com/89408711/138192933-09f5d479-8f50-4892-8481-fd7747c024a5.png)
 ![image](https://user-images.githubusercontent.com/89408711/138192951-92f5f835-3adf-4885-ba56-4e53ca1dcedd.png)
 ![image](https://user-images.githubusercontent.com/89408711/138192996-9129a2fa-49ea-4cfc-b940-f5edaa6fe1f7.png)
+
+Application designs:
+https://docs.google.com/document/d/17vjiHRKxLB0vhZX7UkUtHmYg3iaqDoCQ2Ls7p_vCGb4/
+
+
+![image](https://user-images.githubusercontent.com/89408711/140238927-a82546f3-0e2e-41d4-8324-143677b2014e.png)
+![image](https://user-images.githubusercontent.com/89408711/140238957-577726a1-3db8-4ee7-b543-7a2c618b8a47.png)
+![image](https://user-images.githubusercontent.com/89408711/140238992-4924a25f-7f04-4739-aabb-afe98879095a.png)
+![image](https://user-images.githubusercontent.com/89408711/140239009-40c50fc0-4eec-4955-a78c-de8e0cbaa6cf.png)
+![image](https://user-images.githubusercontent.com/89408711/140239028-ff0db0d3-84a9-41f8-af44-45d749fc6a12.png)
