@@ -49,3 +49,7 @@ https://docs.google.com/document/d/17vjiHRKxLB0vhZX7UkUtHmYg3iaqDoCQ2Ls7p_vCGb4/
 
 The Link to my project video:
 https://www.youtube.com/watch?v=3FjGNW6PFsM&ab_channel=FabianRamos
+
+Link to the prototype of the Application:
+
+https://pr.to/QT2BKA/
