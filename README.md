@@ -52,5 +52,6 @@ https://www.youtube.com/watch?v=3FjGNW6PFsM&ab_channel=FabianRamos
 
 Link to the prototype of the Application:
 
-![image](https://user-images.githubusercontent.com/89408711/143540040-ff1f6681-0d32-4b15-9abb-64aa8c5ffe73.png)
+![image](https://user-images.githubusercontent.com/89408711/143540040-ff1f6681-0d32-4b15-9abb-64aa8c5ffe73.png)(index.html)
 
+index.html
